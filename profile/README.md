@@ -53,9 +53,10 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 
 <h2>📊 Language Usage</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzilient-club&layout=compact&hide=html&theme=default" alt="Top Languages Chart">
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics">
 </p>
+
 
 <p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
 
