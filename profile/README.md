@@ -73,7 +73,7 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 
 <p>
   Want to collaborate or learn more about our platform?<br>
-  Visit <a href="https://enrzilient.club">rzilient.com</a> or connect with us on <a href="https://www.linkedin.com/company/rzilient" target="blank">LinkedIn</a> or email us <a href="mailto:tech@rzilient.club">tech@rzilient.club</a>
+  Visit <a href="https://en.rzilient.club">rzilient.com</a> or connect with us on <a href="https://www.linkedin.com/company/rzilient" target="blank">LinkedIn</a> or email us <a href="mailto:tech@rzilient.club">tech@rzilient.club</a>
 </p>
 
 <p><em>Stay resilient. Stay rzilient. 💾📡🛸</em></p>
