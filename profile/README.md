@@ -54,6 +54,6 @@ Our public API allows partners and clients to securely integrate IT operations i
 ## 🧠 Get in Touch
 
 Want to collaborate or learn more about our platform?  
-Check out [rzilient.com](https://rzilient.com) or shoot us a message on LinkedIn.
+Check out [rzilient.com](https://en.rzilient.club) or shoot us a message on LinkedIn.
 
 > _Stay resilient. Stay rzilient._ 💾📡🛸
