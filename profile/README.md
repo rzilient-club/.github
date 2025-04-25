@@ -52,6 +52,7 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 <p align="center">
    <img src="https://raw.githubusercontent.com/rzilient-club/rzilient-profile/main/github-metrics.svg" alt="rzilient Metrics"> 
 </p>
+
 <p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
 
 <hr>
