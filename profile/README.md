@@ -9,7 +9,7 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
                \/               \/     \/                  \/     \/     \/
 </pre>
 
-<h1>rzilient – Simplifying remote IT management</h1>
+<h1>Simplifying remote IT management</h1>
 <p>We make IT effortless for modern teams — remote, hybrid, or on-site.</p>
 <p>From automation to telemetry, rzilient builds secure, scalable tools for managing your company’s entire IT lifecycle.</p>
 
@@ -49,16 +49,9 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
   <li><strong>Infra:</strong> Cloud-native & automation-first</li>
 </ul>
 
-<hr>
-
-<h2>📊 Language Usage</h2>
-
 <p align="center">
-           <img src="https://raw.githubusercontent.com/rzilient-club/rzilient-profile/main/github-metrics.svg" alt="rzilient Metrics"> 
+   <img src="https://raw.githubusercontent.com/rzilient-club/rzilient-profile/main/github-metrics.svg" alt="rzilient Metrics"> 
 </p>
-
-
-
 <p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
 
 <hr>
@@ -80,7 +73,7 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 
 <p>
   Want to collaborate or learn more about our platform?<br>
-  Visit <a href="https://rzilient.com">rzilient.com</a> or connect with us on LinkedIn.
+  Visit <a href="https://enrzilient.club">rzilient.com</a> or connect with us on <a href="https://www.linkedin.com/company/rzilient" target="blank">LinkedIn</a> or email us <a href="mailto:tech@rzilient.club">tech@rzilient.club</a>
 </p>
 
 <p><em>Stay resilient. Stay rzilient. 💾📡🛸</em></p>
