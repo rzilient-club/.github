@@ -54,8 +54,9 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 <h2>📊 Language Usage</h2>
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics">
+           <img src="https://raw.githubusercontent.com/rzilient-club/rzilient-profile/main/github-metrics.svg" alt="rzilient Metrics"> 
 </p>
+
 
 
 <p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
