@@ -15,8 +15,6 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 
 </div>
 
-<hr>
-
 <h2>🚀 Projects at a Glance</h2>
 
 <ul>
@@ -38,8 +36,6 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
   </li>
 </ul>
 
-<hr>
-
 <h2>⚙️ Tech Stack</h2>
 
 <ul>
@@ -55,8 +51,6 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 
 <p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
 
-<hr>
-
 <h2>🛠️ Badges</h2>
 
 <p>
@@ -67,8 +61,6 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
   <img src="https://img.shields.io/badge/Infrastructure-Automated-orange" alt="Infrastructure Badge">
   <img src="https://img.shields.io/badge/Status-In%20Production-brightgreen" alt="Status Badge">
 </p>
-
-<hr>
 
 <h2>🧠 Get in Touch</h2>
 
