@@ -41,15 +41,10 @@ ______________|__|  | |__| ____   _____/  |_  _/  |_  ____   ____ |  |__
 <ul>
   <li><strong>Back-end:</strong> Ruby on Rails · Go</li>
   <li><strong>Front-end:</strong> React · React Native</li>
+  <li><strong>Web Assembly:</strong> Zig</li>
   <li><strong>Monitoring:</strong> Telegraf-based agent</li>
   <li><strong>Infra:</strong> Cloud-native & automation-first</li>
 </ul>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/rzilient-club/rzilient-profile/main/github-metrics.svg" alt="rzilient Metrics"> 
-</p>
-
-<p><em>Note: This chart may only reflect public repos. Internal metrics are private.</em></p>
 
 <h2>🛠️ Badges</h2>
 
